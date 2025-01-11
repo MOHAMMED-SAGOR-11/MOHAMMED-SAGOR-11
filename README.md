@@ -1,2 +1,2 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HLW+EVERYONE+;WELCOME+%F0%9F%98%80;I'M+SAGOR+;TNX+YOU+BRO+%F0%9F%98%8A" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=F7C825&width=480&lines=WELCOME+;SAGOR+CAME+BACK+;TNX+YOU+BRO+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=F7C825&width=480&height=600&lines=WELCOME+;SAGOR+CAME+BACK+;TNX+YOU+BRO+" alt="Typing SVG" /></a>
